@@ -76,8 +76,8 @@ int main() {
 					break;
 				}
 			}
-			//if (t == i)
-			//	cout << "\nThis Book is Not in Stock";
+			if (t == i)
+				cout << "\nThis Book is Not in Stock";
 			break;
 		case 3:
 			NULL;
